@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uttam9721" alt="uttam9721" /></a> </p>
 
-- 🔭 I’m currently working on [BlogApp](https://github.com/uttam9721/vlogApp)
+<!-- - 🔭 I’m currently working on [BlogApp](https://github.com/uttam9721/vlogApp) -->
 
 - 🌱 I’m currently learning **Next js**
 
