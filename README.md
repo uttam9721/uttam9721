@@ -32,3 +32,32 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uttam9721&show_icons=true&locale=en&layout=compact" alt="uttam9721" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uttam9721&show_icons=true&locale=en" alt="uttam9721" /></p>
+
+
+
+#### Github Analytics:
+<br>
+
+<markdown-accessiblity-table data-catalyst="">
+  <table style="width: 100%; background-color: #1e1e1e; color: white; table-layout: fixed;">
+    <thead>
+	    <tr>
+		  <th colspan="2" align="center">
+			   <img src="./profile-3d-contrib/profile-night-green.svg" alt="Night Green Profile" style="width: 100%; object-fit: contain;" />
+		  </th>
+		</tr>
+      <tr>
+        <th style="padding: 20px; text-align: center;">
+          <a target="_blank" rel="noopener noreferrer nofollow" href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uttam9721&theme=github_dark">
+            <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uttam9721&theme=github_dark" style= "width: 24.5em; height: 14em; object-fit: contain;" />
+          </a>
+        </th>
+        <th style="padding: 20px; text-align: center;">
+          <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api?username=uttam9721&show_icons=true&locale=en">
+            <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=uttam9721&theme=github_dark" alt="GitHub Stats" style="width: 100%; height: 14em; object-fit: contain;" />
+          </a>
+        </th>
+      </tr>
+    </thead>		
+</markdown-accessiblity-table>
+</div>
