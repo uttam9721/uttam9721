@@ -7,9 +7,9 @@
 
 <!-- - 🔭 I’m currently working on [BlogApp](https://github.com/uttam9721/vlogApp) -->
 
-- 🌱 I’m currently learning **Next js**
+- 🔍 I’m currently seeking opportunities as a Frontend / Full Stack Developer
 
-- 👨‍💻 All of my projects are available at [https://our-website-wine.vercel.app/](https://our-website-wine.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://modexa.in/](https://modexa.in/)
 
 - 💬 Ask me about **MERN STACK**
 
