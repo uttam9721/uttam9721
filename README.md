@@ -122,5 +122,5 @@ Full stack food ordering web application with authentication and payment integra
 ## ✨ Quote
 
 <p align="center">
-  <i>"Strive to improve a little each day and become the person you aspire to be."</i>
+  <i>"Turning ideas into scalable web applications with clean code and creativity."</i>
 </p>
