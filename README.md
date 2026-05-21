@@ -17,7 +17,7 @@ Frontend Developer | MERN Stack Developer | Full Stack Web Developer
 ## 🚀 About Me
 
 - 🔭 Currently working as a **Frontend Developer**
-- 🌱 Learning advanced concepts in **MERN Stack & System Design**
+- 🌱 Learning genai with python 
 - 👨‍💻 Portfolio: [https://modexa.in/](https://modexa.in/)
 - 💬 Ask me about **React.js, Next.js, Node.js, MERN Stack**
 - 📫 Reach me at **uttammaurya377@gmail.com**
