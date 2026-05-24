@@ -69,17 +69,21 @@ Frontend Developer | MERN Stack Developer | Full Stack Web Developer
 
 ## 📌 Featured Projects
 
-### 🔹 Blog Application
-A full stack blogging platform where users can create, edit, and share blogs.
+Live Projects 
 
-### 🔹 Student Job Tracker
-Track job applications, interviews, and application status efficiently.
+📌 Featured Projects
 
-### 🔹 Cryptocurrency Tracker
-Real-time cryptocurrency tracking application using API integration.
+💕 Dating Website
+Real-time messaging, authentication, meetings, and modern responsive design.
 
-### 🔹 Food Ordering System
-Full stack food ordering web application with authentication and payment integration.
+🏢 ERP System
+Enterprise resource planning solution with dashboards, analytics, and workflow management.
+
+🎓 Learning Management System
+Course management, authentication, and role-based access control.
+
+🤝 B2B Platform
+Business-focused web application with API integrations and scalable architecture.
 
 ---
 
