@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Uttam Kumar</h1>
 
 <h3 align="center">
-🚀 Frontend Developer | MERN Stack Developer | GenAI Enthusiast
+Frontend Developer | Full Stack Developer | MERN Stack | GenAI Enthusiast
 </h3>
 
 <p align="center">
-  <a href="https://github.com/uttam9721">
-    <img src="https://komarev.com/ghpvc/?username=uttam9721&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=uttam9721&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/uttam9721?label=Followers&style=flat&color=0e75b6" alt="GitHub Followers" />
 </p>
 
@@ -19,32 +17,33 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Frontend & Full Stack Developer** focused on building modern, responsive, and scalable web applications.
+I'm a passionate **Frontend & Full Stack Developer** who enjoys building modern, responsive, and scalable web applications.
 
 * 🔭 Currently working as a **Frontend Developer**
+* 💻 Experienced in building **Full Stack web applications**
 * 🌱 Currently learning **Generative AI with Python**
-* 💻 Experienced with **React.js, Next.js, TypeScript & MERN Stack**
 * 🧠 Improving my **Data Structures & Algorithms** skills
-* 🚀 Interested in **AI-powered applications and scalable software**
-* 🎨 Passionate about creating clean and user-friendly interfaces
-* 📍 Based in **India**
-* 💬 Ask me about **React.js, JavaScript, TypeScript, Next.js, Node.js & MERN**
+* ⚛️ Strong interest in **React.js, Next.js & TypeScript**
+* 🚀 Experienced with **MERN Stack & REST APIs**
+* 🏢 Worked on **ERP, HR Management, FinTech, LMS & B2B platforms**
+* 💬 Ask me about **React.js, JavaScript, TypeScript, Node.js, Express.js & MongoDB**
 * 📫 Email: **[uttammaurya377@gmail.com](mailto:uttammaurya377@gmail.com)**
-* 🌐 Portfolio: **[modexa.in](https://modexa.in/)**
+* 🌐 Portfolio: **https://modexa.in/**
 
 ---
 
 ## 🧑‍💻 What I Do
 
 ```text
-Frontend Development    → React.js, Next.js, JavaScript, TypeScript, Tailwind CSS
+Frontend Development    → React.js, Next.js, TypeScript, Tailwind CSS
 Backend Development     → Node.js, Express.js, REST APIs
 Database                → MongoDB, MySQL
-Authentication          → JWT, Firebase, Auth0
+Authentication          → JWT, Firebase
 Payments                → Stripe
-DevOps & Tools          → Git, GitHub, Docker
-Currently Learning      → Python, Generative AI
-Problem Solving         → Data Structures & Algorithms
+Real-Time Applications  → Socket.io
+Tools & Platforms       → Git, GitHub, Docker, AWS, Postman
+Currently Learning      → Python & Generative AI
+Problem Solving        → Data Structures & Algorithms
 ```
 
 ---
@@ -77,95 +76,197 @@ Problem Solving         → Data Structures & Algorithms
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 💕 Qalb — Dating & Matrimonial Platform
+## 💕 Qalb — Dating & Matrimonial Platform
 
-A modern relationship platform focused on meaningful connections.
+**Frontend Development Project**
 
-**Features:**
+A modern dating and matrimonial platform focused on meaningful connections, user interaction, and real-time communication.
 
-* 🔐 Authentication
+### Key Features
+
+* 🔐 Authentication & user profiles
 * 💬 Real-time messaging
 * 📞 Meeting functionality
-* ❤️ Matching system
-* 📱 Fully responsive UI
-* ⚡ Real-time communication using Socket.io
+* ❤️ Matching & interaction features
+* ⚡ Real-time communication with Socket.io
+* 📱 Fully responsive interface
+* 🎨 Modern UI/UX
+* 🧩 Multi-step profile creation flow
 
-🔗 **Live:** https://qalbsoulmate.com/
+### Technologies
+
+`React.js` `TypeScript` `Tailwind CSS` `Context API` `Socket.io` `Axios`
 
 ---
 
-### 🏢 ERP System
+## 💳 IndreamPay — Digital Payment Platform
 
-Enterprise resource planning application designed to manage business workflows and operations.
+**Full Stack Web Application**
 
-**Features:**
+A modern digital payment and financial services platform designed with a responsive interface and business-oriented workflows.
+
+### Key Features
+
+* 💳 Payment & financial service workflows
+* 📊 Dashboard and business interfaces
+* 🔐 Authentication & secure user flows
+* 🔗 REST API integration
+* 📱 Responsive design
+* ⚡ Performance-focused application
+* 🎨 Modern UI/UX
+* 🗄️ Database-driven application
+
+### Technologies
+
+`React.js` `JavaScript` `Node.js` `Express.js` `MongoDB` `REST API`
+
+---
+
+## 🏢 ERP System
+
+**Full Stack Web Application**
+
+An enterprise resource planning system designed to manage business operations, workflows, users, and organizational data.
+
+### Key Features
 
 * 📊 Interactive dashboards
-* 📈 Analytics
+* 📈 Analytics & reporting
 * 👥 User management
 * 🔄 Business workflows
-* 📱 Responsive interface
+* 🔐 Authentication & authorization
 * 🔌 REST API integration
+* 🗄️ Database management
+* 📱 Responsive interface
+
+### Technologies
+
+`React.js` `JavaScript` `Node.js` `Express.js` `MongoDB` `REST API`
 
 ---
 
-### 🎓 Learning Management System
+## 👨‍💼 HR Management System
 
-A complete LMS platform for managing online learning and educational content.
+**Full Stack Web Application**
 
-**Features:**
+A Human Resource Management System designed to simplify employee management and HR operations.
 
-* 👨‍🎓 Student management
+### Key Features
+
+* 👥 Employee management
+* 🏢 Department & role management
+* 📋 Employee records
+* 📊 HR dashboards
+* 📅 Attendance & leave management
+* 🔐 Role-based access control
+* 🔌 REST API integration
+* 🗄️ Database management
+* 📱 Responsive interface
+
+### Technologies
+
+`React.js` `JavaScript` `Node.js` `Express.js` `MongoDB` `REST API`
+
+---
+
+## 🎓 Learning Management System
+
+**Full Stack Web Application**
+
+A complete LMS platform designed for managing courses, students, educational content, and payments.
+
+### Key Features
+
 * 📚 Course management
+* 👨‍🎓 Student management
 * 🔐 Authentication & authorization
 * 💳 Stripe payment integration
 * 🛡️ Role-based access control
 * ⚙️ Admin dashboard
+* 📊 Course & user management
+* 📱 Responsive UI
+
+### Technologies
+
+`React.js` `JavaScript` `Node.js` `Express.js` `MongoDB` `Stripe` `Clerk`
 
 ---
 
-### 🤝 B2B Business Platform
+## 🤝 B2B Business Platform
 
-A scalable business-focused web application designed to streamline communication and business workflows.
+**Full Stack Web Application**
 
-**Features:**
+A scalable business-focused web application designed to streamline business operations, communication, and workflows.
+
+### Key Features
 
 * 📊 Business dashboards
-* 🔗 API integrations
 * 👥 User management
-* 📈 Scalable architecture
+* 🔗 API integrations
+* 📈 Scalable application architecture
 * 🔐 Secure authentication
+* 🗄️ Database management
+* 📱 Responsive design
+* ⚡ Optimized frontend & backend workflows
+
+### Technologies
+
+`React.js` `TypeScript` `Node.js` `Express.js` `MongoDB` `REST API`
 
 ---
 
-## 🧠 Currently Learning
+# 🧠 Currently Learning
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python" height="50" />
-</p>
+## 🤖 Generative AI with Python
 
-### 🤖 Generative AI
+Currently exploring the fundamentals of AI and building AI-powered applications.
 
-Currently exploring:
-
-* Python for AI
-* LLM fundamentals
-* Prompt Engineering
-* AI APIs
-* RAG
-* Embeddings & Vector Databases
-* AI-powered web applications
-* AI Agents
+```text
+Python
+   ↓
+AI Fundamentals
+   ↓
+Generative AI
+   ↓
+LLMs
+   ↓
+Prompt Engineering
+   ↓
+RAG
+   ↓
+Embeddings & Vector Databases
+   ↓
+AI Agents
+   ↓
+AI-Powered Applications
+```
 
 ---
 
-## 🧩 Problem Solving
+# 🧩 Data Structures & Algorithms
 
-I regularly practice **Data Structures & Algorithms** to improve problem-solving and coding skills.
+I'm consistently practicing **DSA and problem solving** to improve my programming fundamentals and prepare for technical interviews.
 
-### Platforms
+### Topics I'm Practicing
+
+* Arrays
+* Strings
+* Hashing
+* Two Pointers
+* Sliding Window
+* Binary Search
+* Linked List
+* Stack & Queue
+* Recursion
+* Trees
+* BST
+* Heap
+* Graphs
+* Dynamic Programming
+
+### Coding Profiles
 
 <p align="center">
 
@@ -185,7 +286,7 @@ I regularly practice **Data Structures & Algorithms** to improve problem-solving
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -205,7 +306,7 @@ I regularly practice **Data Structures & Algorithms** to improve problem-solving
 
 ---
 
-## 📊 GitHub Statistics
+# 📊 GitHub Statistics
 
 <p align="center">
 
@@ -221,7 +322,7 @@ I regularly practice **Data Structures & Algorithms** to improve problem-solving
 
 ---
 
-## 📈 GitHub Analytics
+# 📈 GitHub Analytics
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uttam9721&theme=github_dark" />
@@ -233,7 +334,7 @@ I regularly practice **Data Structures & Algorithms** to improve problem-solving
 
 ---
 
-## 🐍 Contribution Graph
+# 🐍 GitHub Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
@@ -241,7 +342,7 @@ I regularly practice **Data Structures & Algorithms** to improve problem-solving
 
 ---
 
-## 🎯 2026 Goals
+# 🎯 2026 Goals
 
 ```text
 ☑ Build production-ready applications
@@ -250,18 +351,19 @@ I regularly practice **Data Structures & Algorithms** to improve problem-solving
 ☑ Learn Python deeply
 ☑ Explore Generative AI
 ☑ Build AI-powered applications
-☑ Contribute to open source
+☑ Contribute to Open Source
+☑ Improve system design fundamentals
 ☑ Keep learning and building 🚀
 ```
 
 ---
 
-## 💡 Developer Philosophy
+# 💡 Developer Philosophy
 
 <p align="center">
   <i>
-    "Build with purpose. Learn continuously. Write clean code. 
-    Solve real problems."
+    "Build with purpose. Learn continuously. 
+    Write clean code. Solve real problems."
   </i>
 </p>
 
