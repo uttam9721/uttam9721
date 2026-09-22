@@ -35,13 +35,13 @@ I'm a passionate **Frontend & Full Stack Developer** who enjoys building modern,
 ## 🧑‍💻 What I Do
 
 ```text
-Frontend Development    → React.js, Next.js, TypeScript, Tailwind CSS
+Frontend Development    → React.js, Next.js, JavaScript, TypeScript, Tailwind CSS
 Backend Development     → Node.js, Express.js, REST APIs
 Database                → MongoDB, MySQL
-Authentication          → JWT, Firebase
+Authentication          → JWT, Firebase, Auth0
 Payments                → Stripe
 Real-Time Applications  → Socket.io
-Tools & Platforms       → Git, GitHub, Docker, AWS, Postman
+Tools & Platforms       → Git, GitHub, Docker, Postman
 Currently Learning      → Python & Generative AI
 Problem Solving        → Data Structures & Algorithms
 ```
