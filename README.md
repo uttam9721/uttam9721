@@ -101,7 +101,7 @@ A modern dating and matrimonial platform focused on meaningful connections, user
 
 ---
 
-## 💳 IndreamPay — Digital Payment Platform
+## 💳 Digital Payment Platform
 
 **Full Stack Web Application**
 
@@ -120,7 +120,7 @@ A modern digital payment and financial services platform designed with a respons
 
 ### Technologies
 
-`React.js` `JavaScript` `Node.js` `Express.js` `MongoDB` `REST API`
+`React.js` `TypeScript` `Nest.js`  `Postgress` `REST API`
 
 ---
 
@@ -245,26 +245,6 @@ AI-Powered Applications
 
 ---
 
-# 🧩 Data Structures & Algorithms
-
-I'm consistently practicing **DSA and problem solving** to improve my programming fundamentals and prepare for technical interviews.
-
-### Topics I'm Practicing
-
-* Arrays
-* Strings
-* Hashing
-* Two Pointers
-* Sliding Window
-* Binary Search
-* Linked List
-* Stack & Queue
-* Recursion
-* Trees
-* BST
-* Heap
-* Graphs
-* Dynamic Programming
 
 ### Coding Profiles
 
