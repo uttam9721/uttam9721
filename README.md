@@ -1,17 +1,26 @@
-# Hi 👋, I'm Uttam Kumar
+<!-- ===================== HEADER ===================== -->
+<div align="center">
 
-<h3 align="center">Frontend Developer | Full Stack Developer | MERN Stack | GenAI Enthusiast</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1a1b27&height=200&section=header&text=Uttam%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Frontend%20%7C%20Full%20Stack%20%7C%20GenAI%20Enthusiast&descAlignY=58&descSize=18" alt="Header" width="100%" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=uttam9721&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/uttam9721?style=flat&label=Followers&color=0e75b6" alt="GitHub Followers" />
-</p>
+<a href="https://github.com/uttam9721">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Frontend+Developer+%F0%9F%9A%80;Full+Stack+Developer+(MERN)+%F0%9F%92%BB;React+%7C+Next.js+%7C+TypeScript+%E2%9A%9B%EF%B8%8F;Learning+Generative+AI+with+Python+%F0%9F%A4%96" alt="Typing SVG" />
+</a>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=uttam9721&theme=tokyonight&no-frame=true&margin-w=8" alt="GitHub Trophies" />
-  </a>
-</p>
+<br/>
+
+<img src="https://hits.sh/github.com/uttam9721/.svg?style=flat-square&label=Profile%20Views&color=0e75b6" alt="Profile Views" />
+<a href="https://github.com/uttam9721?tab=followers">
+  <img src="https://img.shields.io/github/followers/uttam9721?style=flat-square&label=Followers&color=0e75b6&logo=github" alt="GitHub Followers" />
+</a>
+<a href="https://github.com/uttam9721">
+  <img src="https://img.shields.io/badge/GitHub-uttam9721-181717?style=flat-square&logo=github" alt="GitHub" />
+</a>
+<a href="https://modexa.in/">
+  <img src="https://img.shields.io/badge/Portfolio-modexa.in-0e75b6?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" />
+</a>
+
+</div>
 
 ---
 
@@ -20,200 +29,164 @@
 I'm a passionate **Frontend & Full Stack Developer** who enjoys building modern, responsive, and scalable web applications.
 
 - 🔭 Currently working as a **Frontend Developer**
-- 💻 Experienced in building **full-stack web applications**
-- 🌱 Learning **Generative AI with Python**
+- 💻 Experienced in building **Full Stack web applications**
+- 🌱 Currently learning **Generative AI with Python**
 - 🧠 Improving my **Data Structures & Algorithms** skills
-- ⚛️ Interested in **React.js, Next.js, and TypeScript**
-- 🚀 Experienced with the **MERN stack and REST APIs**
-- 🏢 Worked on ERP, HR Management, FinTech, LMS, and B2B platforms
-- 💬 Ask me about React.js, JavaScript, TypeScript, Node.js, Express.js, and MongoDB
-- 📫 Email: [uttammaurya377@gmail.com](mailto:uttammaurya377@gmail.com)
-- 🌐 Portfolio: [modexa.in](https://modexa.in/)
-- 🐙 GitHub: [@uttam9721](https://github.com/uttam9721)
+- ⚛️ Strong interest in **React.js, Next.js & TypeScript**
+- 🚀 Experienced with **MERN Stack & REST APIs**
+- 🏢 Worked on **ERP, HR Management, FinTech, LMS & B2B platforms**
+- 💬 Ask me about **React.js, JavaScript, TypeScript, Node.js, Express.js & MongoDB**
+- 📫 Email: **[uttammaurya377@gmail.com](mailto:uttammaurya377@gmail.com)**
+- 🌐 Portfolio: **[modexa.in](https://modexa.in/)**
 
 ---
 
 ## 🧑‍💻 What I Do
 
-```text
-Frontend Development  → React.js, Next.js, JavaScript, TypeScript, Tailwind CSS
-Backend Development   → Node.js, Express.js, REST APIs, NestJS
-Database              → MongoDB, MySQL, PostgreSQL
-Authentication        → JWT, Firebase, Auth0, Clerk
-Payments              → Stripe
-Real-Time Apps        → Socket.io
-Tools & Platforms     → Git, GitHub, Docker, Postman
-Currently Learning    → Python, Generative AI, LLMs
-Problem Solving       → Data Structures & Algorithms
-```
+| Area | Technologies |
+| --- | --- |
+| 🎨 **Frontend Development** | React.js, Next.js, JavaScript, TypeScript, Tailwind CSS |
+| ⚙️ **Backend Development** | Node.js, Express.js, Nest.js, REST APIs |
+| 🗄️ **Database** | MongoDB, MySQL, PostgreSQL |
+| 🔐 **Authentication** | JWT, Firebase, Auth0, Clerk |
+| 💳 **Payments** | Stripe |
+| ⚡ **Real-Time Apps** | Socket.io |
+| 🧰 **Tools & Platforms** | Git, GitHub, Docker, Postman |
+| 🤖 **Currently Learning** | Python & Generative AI |
+| 🧩 **Problem Solving** | Data Structures & Algorithms |
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+<div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,c" alt="Programming Languages" />
-</p>
+**💻 Languages**
 
-### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,c" alt="Languages" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap,redux,vite" alt="Frontend Technologies" />
-</p>
+**🎨 Frontend**
 
-### ⚙️ Backend & Database
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap,redux,vite" alt="Frontend" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,nestjs,postgres" alt="Backend and Database Technologies" />
-</p>
+**⚙️ Backend & Database**
 
-### ☁️ Tools & Platforms
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,mysql,postgres,firebase" alt="Backend" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,postman,vscode,figma,vercel" alt="Tools and Platforms" />
-</p>
+**☁️ Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,postman,vscode,figma,vercel" alt="Tools" />
+
+</div>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 💕 Qalb — Dating & Matrimonial Platform
-
+### 💕 Qalb — Dating & Matrimonial Platform
 **Frontend Development Project**
 
 A modern dating and matrimonial platform focused on meaningful connections, user interaction, and real-time communication.
 
-### Key Features
-
-- 🔐 Authentication and user profiles
+**Key Features**
+- 🔐 Authentication & user profiles
 - 💬 Real-time messaging
 - 📞 Meeting functionality
-- ❤️ Matching and interaction features
+- ❤️ Matching & interaction features
 - ⚡ Real-time communication with Socket.io
 - 📱 Fully responsive interface
-- 🎨 Modern UI/UX
 - 🧩 Multi-step profile creation flow
 
-### Technologies
-
-`React.js` `TypeScript` `Tailwind CSS` `Context API` `Socket.io` `Axios`
+**Tech:** `React.js` `TypeScript` `Tailwind CSS` `Context API` `Socket.io` `Axios`
 
 ---
 
-## 💳 Digital Payment Platform
-
+### 💳 Digital Payment Platform
 **Full Stack Web Application**
 
-A digital payment and financial services platform designed with a responsive interface and business-oriented workflows.
+A modern digital payment and financial services platform with a responsive interface and business-oriented workflows.
 
-### Key Features
-
-- 💳 Payment and financial service workflows
-- 📊 Dashboards and business interfaces
-- 🔐 Authentication and secure user flows
+**Key Features**
+- 💳 Payment & financial service workflows
+- 📊 Dashboard and business interfaces
+- 🔐 Authentication & secure user flows
 - 🔗 REST API integration
-- 📱 Responsive design
-- ⚡ Performance-focused application
-- 🗄️ Database-driven architecture
+- 📱 Responsive, performance-focused design
+- 🗄️ Database-driven application
 
-### Technologies
-
-`React.js` `TypeScript` `NestJS` `PostgreSQL` `REST APIs`
+**Tech:** `React.js` `TypeScript` `Nest.js` `PostgreSQL` `REST API`
 
 ---
 
-## 🏢 ERP System
-
+### 🏢 ERP System
 **Full Stack Web Application**
 
-An enterprise resource planning system designed to manage business operations, workflows, users, and organizational data.
+An enterprise resource planning system to manage business operations, workflows, users, and organizational data.
 
-### Key Features
-
+**Key Features**
 - 📊 Interactive dashboards
-- 📈 Analytics and reporting
+- 📈 Analytics & reporting
 - 👥 User management
 - 🔄 Business workflows
-- 🔐 Authentication and authorization
+- 🔐 Authentication & authorization
 - 🔌 REST API integration
-- 🗄️ Database management
 - 📱 Responsive interface
 
-### Technologies
-
-`React.js` `JavaScript` `Node.js` `Express.js` `MongoDB` `REST APIs`
+**Tech:** `React.js` `JavaScript` `Node.js` `Express.js` `MongoDB` `REST API`
 
 ---
 
-## 👨‍💼 HR Management System
-
+### 👨‍💼 HR Management System
 **Full Stack Web Application**
 
-A Human Resource Management System designed to simplify employee management and HR operations.
+A Human Resource Management System that simplifies employee management and HR operations.
 
-### Key Features
-
+**Key Features**
 - 👥 Employee management
-- 🏢 Department and role management
+- 🏢 Department & role management
 - 📋 Employee records
 - 📊 HR dashboards
-- 📅 Attendance and leave management
+- 📅 Attendance & leave management
 - 🔐 Role-based access control
-- 🔌 REST API integration
-- 🗄️ Database management
 - 📱 Responsive interface
 
-### Technologies
-
-`React.js` `JavaScript` `Node.js` `Express.js` `MongoDB` `REST APIs`
+**Tech:** `React.js` `JavaScript` `Node.js` `Express.js` `MongoDB` `REST API`
 
 ---
 
-## 🎓 Learning Management System
-
+### 🎓 Learning Management System
 **Full Stack Web Application**
 
-A learning management platform designed for managing courses, students, educational content, and payments.
+A complete LMS platform for managing courses, students, educational content, and payments.
 
-### Key Features
-
+**Key Features**
 - 📚 Course management
 - 👨‍🎓 Student management
-- 🔐 Authentication and authorization
+- 🔐 Authentication & authorization
 - 💳 Stripe payment integration
 - 🛡️ Role-based access control
 - ⚙️ Admin dashboard
-- 📊 Course and user management
 - 📱 Responsive UI
 
-### Technologies
-
-`React.js` `JavaScript` `Node.js` `Express.js` `MongoDB` `Stripe` `Clerk`
+**Tech:** `React.js` `JavaScript` `Node.js` `Express.js` `MongoDB` `Stripe` `Clerk`
 
 ---
 
-## 🤝 B2B Business Platform
-
+### 🤝 B2B Business Platform
 **Full Stack Web Application**
 
-A business-focused web application designed to streamline business operations, communication, and workflows.
+A scalable business-focused web application to streamline operations, communication, and workflows.
 
-### Key Features
-
+**Key Features**
 - 📊 Business dashboards
 - 👥 User management
 - 🔗 API integrations
-- 📈 Scalable application architecture
+- 📈 Scalable architecture
 - 🔐 Secure authentication
-- 🗄️ Database management
 - 📱 Responsive design
-- ⚡ Optimized frontend and backend workflows
+- ⚡ Optimized frontend & backend workflows
 
-### Technologies
-
-`React.js` `TypeScript` `Node.js` `Express.js` `MongoDB` `REST APIs`
+**Tech:** `React.js` `TypeScript` `Node.js` `Express.js` `MongoDB` `REST API`
 
 ---
 
@@ -221,128 +194,103 @@ A business-focused web application designed to streamline business operations, c
 
 ### 🤖 Generative AI with Python
 
-Currently exploring AI fundamentals and learning to build AI-powered applications.
+Exploring the fundamentals of AI and building AI-powered applications.
 
 ```text
-Python
-   ↓
-AI Fundamentals
-   ↓
-Generative AI
-   ↓
-Large Language Models (LLMs)
-   ↓
-Prompt Engineering
-   ↓
-Retrieval-Augmented Generation (RAG)
-   ↓
-Embeddings & Vector Databases
-   ↓
-AI Agents
-   ↓
-AI-Powered Applications
+Python → AI Fundamentals → Generative AI → LLMs → Prompt Engineering
+      → RAG → Embeddings & Vector DBs → AI Agents → AI-Powered Apps
 ```
 
 ---
 
-## 💻 Coding Profiles
+## 🏆 Coding Profiles
 
-<p align="center">
-  <a href="https://leetcode.com/u/uttammaurya01/">
-    <img src="https://cdn.simpleicons.org/leetcode" height="45" alt="LeetCode" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.hackerearth.com/@um8794907">
-    <img src="https://cdn.simpleicons.org/hackerearth" height="45" alt="HackerEarth" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://auth.geeksforgeeks.org/user/um879t3jf">
-    <img src="https://cdn.simpleicons.org/geeksforgeeks" height="45" alt="GeeksforGeeks" />
-  </a>
-</p>
+<div align="center">
+
+<a href="https://leetcode.com/u/uttammaurya01/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+</a>
+<a href="https://www.hackerearth.com/@um8794907">
+  <img src="https://img.shields.io/badge/HackerEarth-2C3454?style=for-the-badge&logo=hackerearth&logoColor=white" alt="HackerEarth" />
+</a>
+<a href="https://auth.geeksforgeeks.org/user/um879t3jf">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+</a>
+
+</div>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/uttam-kumar-23243823b/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/uttam9721">
-    <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://instagram.com/iamuttam_maurya">
-    <img src="https://skillicons.dev/icons?i=instagram" height="45" alt="Instagram" />
-  </a>
-</p>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/uttam-kumar-23243823b/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/uttam9721">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://instagram.com/iamuttam_maurya">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="mailto:uttammaurya377@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+
+</div>
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=uttam9721&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Statistics"
-    height="180"
-  />
-  <img
-    src="https://streak-stats.demolab.com/?user=uttam9721&theme=tokyonight&hide_border=true"
-    alt="GitHub Contribution Streak"
-    height="180"
-  />
-</p>
+<div align="center">
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=uttam9721&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Most Used Programming Languages"
-  />
-</p>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=uttam9721&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="180" src="https://streak-stats.demolab.com/?user=uttam9721&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<br/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uttam9721&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+</div>
 
 ---
 
-# 📈 GitHub Analytics
+## 📈 GitHub Analytics
 
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uttam9721&theme=github_dark"
-    alt="GitHub Profile Summary"
-  />
-</p>
+<div align="center">
 
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=uttam9721&theme=github_dark"
-    alt="GitHub Summary Statistics"
-  />
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uttam9721&theme=tokyonight" alt="Profile Details" />
+
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=uttam9721&theme=tokyonight" alt="Repos per Language" />
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=uttam9721&theme=tokyonight" alt="Most Commit Language" />
+
+</div>
 
 ---
 
-# 🐍 GitHub Contribution Snake
+## 🐍 Contribution Snake
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/uttam9721/uttam9721/output/github-contribution-grid-snake-dark.svg"
-    alt="GitHub Contribution Snake"
-  />
-</p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/uttam9721/uttam9721/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/uttam9721/uttam9721/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/uttam9721/uttam9721/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</div>
 
 ---
 
-# 🎯 2026 Goals
+## 🎯 2026 Goals
 
-- [x] Build production-ready applications
-- [x] Strengthen React and TypeScript skills
-- [x] Improve DSA and problem-solving skills
+- [ ] Build production-ready applications
+- [ ] Strengthen React & TypeScript
+- [ ] Improve DSA & problem solving
 - [ ] Learn Python deeply
 - [ ] Explore Generative AI
 - [ ] Build AI-powered applications
-- [ ] Contribute to open source
+- [ ] Contribute to Open Source
 - [ ] Improve system design fundamentals
 - [ ] Keep learning and building 🚀
 
@@ -350,19 +298,20 @@ AI-Powered Applications
 
 ## 💡 Developer Philosophy
 
-<p align="center">
-  <i>
-    "Build with purpose. Learn continuously.<br/>
-    Write clean code. Solve real problems."
-  </i>
-</p>
+<div align="center">
+
+> *"Build with purpose. Learn continuously. Write clean code. Solve real problems."*
+
+</div>
 
 ---
 
-<p align="center">
-  ⭐ If you find my projects useful, consider giving them a star!
-</p>
+<div align="center">
 
-<p align="center">
-  <b>Thanks for visiting my profile! 🚀</b>
-</p>
+⭐ If you find my projects useful, consider giving them a star!
+
+**Thanks for visiting my profile! 🚀**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:0e75b6&height=100&section=footer" alt="Footer" width="100%" />
+
+</div>
