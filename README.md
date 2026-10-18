@@ -261,21 +261,26 @@ Python → AI Fundamentals → Generative AI → LLMs → Prompt Engineering
 
 <div align="center">
 
-<!-- Real data (incl. private contributions) generated daily by GitHub Actions -->
-<img src="./github-metrics.svg" alt="GitHub Metrics" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uttam9721&theme=github_dark" alt="Profile Details" />
+
+<br/>
+
+<img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=uttam9721&theme=github_dark" alt="Repos per Language" />
+<img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=uttam9721&theme=github_dark" alt="Most Commit Language" />
+<img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=uttam9721&theme=github_dark&utcOffset=5.5" alt="Productive Time" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=uttam9721&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph" width="100%" />
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 🟩 Contribution Graph
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/uttam9721/uttam9721/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/uttam9721/uttam9721/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/uttam9721/uttam9721/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
+  <img src="https://ghchart.rshah.org/0e75b6/uttam9721" alt="uttam9721's GitHub Contribution Chart" width="100%" />
 </div>
 
 ---
