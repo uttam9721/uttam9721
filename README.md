@@ -246,7 +246,7 @@ Python → AI Fundamentals → Generative AI → LLMs → Prompt Engineering
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=uttam9721&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=uttam9721&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
 <img height="180" src="https://streak-stats.demolab.com/?user=uttam9721&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <br/>
@@ -261,10 +261,8 @@ Python → AI Fundamentals → Generative AI → LLMs → Prompt Engineering
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uttam9721&theme=tokyonight" alt="Profile Details" />
-
-<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=uttam9721&theme=tokyonight" alt="Repos per Language" />
-<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=uttam9721&theme=tokyonight" alt="Most Commit Language" />
+<!-- Real data (incl. private contributions) generated daily by GitHub Actions -->
+<img src="./github-metrics.svg" alt="GitHub Metrics" width="100%" />
 
 </div>
 
